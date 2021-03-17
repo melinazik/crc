@@ -105,11 +105,12 @@ public static int Verify_CRC(int message){
 ### Results
 The program run for 18 billion messages in 1 hour. 
 
-Total messages = > 283.017.413
-Corrupted messages detected by CRC => 282.799.339
+Total messages = > 283.017.413 \
+Corrupted messages detected by CRC => 282.799.339 \
 Corrupted messages not detected by CRC => 218.074
 
-Percentage of corrupted messages = 1.489
-
-Percentage of corrupted messages detected by CRC = 1.488 %
+\
+\
+Percentage of corrupted messages = 1.489% \
+Percentage of corrupted messages detected by CRC = 1.488 % \
 Percentage of corrupted messages not detected by CRC = 0.00114%
