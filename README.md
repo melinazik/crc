@@ -1,8 +1,7 @@
 # Cyclic Redundancy Check (CRC) 
 
-University Project on Digital Communications.
+## University Project on Digital Communications.
 
-## Cyclic Redundancy Check(CRC)
 The goal of this exercise is to implement the error-detecting algorithm CRC. The following operations should be included:
 * Generation of randomly selected k - bits long binary numbers (data blocks of k bits with the probability of each bit being 0 or 1 to be equal).
 * Calculation of the corresponding CRC to each message sent. A binary number P will be used as a prototype for the calculation of CRC.
@@ -110,6 +109,7 @@ Total messages = > 283.017.413
 Corrupted messages detected by CRC => 282.799.339
 Corrupted messages not detected by CRC => 218.074
 
-Percentage of corrupted messages = 1.489%
+Percentage of corrupted messages = 1.489
+
 Percentage of corrupted messages detected by CRC = 1.488 %
 Percentage of corrupted messages not detected by CRC = 0.00114%
